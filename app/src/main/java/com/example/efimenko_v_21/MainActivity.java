@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         createUser("Egor", "pr21101");
+        createUser("q", "1");
     }
 
     private void createUser(String username, String password) {
